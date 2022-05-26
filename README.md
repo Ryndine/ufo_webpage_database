@@ -2,6 +2,7 @@
 
 ## Objective: 
 Deploy a javascript website which uses a user form to retrieve requested UFO sighting data back in table format.
+_[SEE DEPLOYED PAGE HERE](ryndine.github.io/ufo_webpage_database/)_
 
 ## Tools & databases used:
 - Javascript
