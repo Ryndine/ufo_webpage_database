@@ -16,9 +16,9 @@ function buildTable(data) {
   });
 }
 
+// Update filter
 var filters = {};
 
-// Update filter
 function updateFilters() {
 
   let changedElement = d3.select(this);
