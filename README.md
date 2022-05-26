@@ -8,6 +8,7 @@ Deploy a javascript website which uses a user form to retrieve requested UFO sig
 - HTML
 - CSS
 - Bootstrap
+- D3
 
 ## Method:
 
